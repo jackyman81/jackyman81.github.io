@@ -1,9 +1,9 @@
 ---
-title: "JACKY MAN"
+title: "Jacky Man"
 ---
 
 This is a Quarto website.
 
 To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
 
-(./images/RC.webp){width="400px" height="400px"}
+![image](./images/RC.webp){width="400px" height="400px"}
