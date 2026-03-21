@@ -2,8 +2,14 @@
 title: "Jacky Man"
 ---
 
-This is a Quarto website.
+## Python Example
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+```{python}
+import pandas as pd
 
-![image](./images/RC.webp){width="400px" height="400px"}
+df = pd.DataFrame({
+    "Name": ["Alice", "Bob", "Charlie"],
+    "Score": [90, 85, 88]
+})
+
+df.head()
