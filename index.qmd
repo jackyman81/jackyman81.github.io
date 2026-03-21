@@ -2,8 +2,6 @@
 title: "Jacky Man"
 ---
 
-## Python Example
-
 ```{python}
 import pandas as pd
 
@@ -13,3 +11,4 @@ df = pd.DataFrame({
 })
 
 df.head()
+```
