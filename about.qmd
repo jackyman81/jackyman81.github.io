@@ -3,3 +3,7 @@ title: "About"
 ---
 
 About this site
+```{python}
+nums = [10, 20, 30]
+sum(nums)
+```
