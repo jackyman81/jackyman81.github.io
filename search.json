@@ -4,7 +4,14 @@
     "href": "index.html",
     "title": "Jacky Man",
     "section": "",
-    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites.\n\n\n\nimage"
+    "text": "import pandas as pd\ndf = pd.DataFrame({ “Name”: [“Alice”, “Bob”, “Charlie”], “Score”: [90, 85, 88] })\ndf.head()"
+  },
+  {
+    "objectID": "index.html#python-example",
+    "href": "index.html#python-example",
+    "title": "Jacky Man",
+    "section": "",
+    "text": "import pandas as pd\ndf = pd.DataFrame({ “Name”: [“Alice”, “Bob”, “Charlie”], “Score”: [90, 85, 88] })\ndf.head()"
   },
   {
     "objectID": "about.html",
