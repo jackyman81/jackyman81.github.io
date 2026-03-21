@@ -11,6 +11,6 @@
     "href": "index.html",
     "title": "Jacky Man",
     "section": "",
-    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites.\n!(./images/RC.webp){width=“400px” height=“400px”}"
+    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites."
   }
 ]
