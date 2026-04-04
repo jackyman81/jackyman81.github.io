@@ -1,0 +1,3 @@
+<div style="display: flex; justify-content: center;">
+  <iframe src="files/my-cv.pdf" width="80%" height="800px"></iframe>
+</div>
