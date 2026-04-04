@@ -1,11 +1,47 @@
 ---
 title: "About"
+page-layout: full
 ---
 
-About this site
-```{python}
-nums = [10, 20, 30]
-sum(nums)
-```
+<div style="text-align: center;">
 
-![](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExOHhlc3huczh5dGIxZDI4bXMzZ3gxYjRwejUxeDRmdjd5OWJnaXk4OSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/UYpelo7WbjZQg0dDQY/giphy.gif){fig-align="center" width=500px}
+<img src="https://media.licdn.com/dms/image/v2/C4D03AQHg6NYHz-YDPA/profile-displayphoto-shrink_400_400/profile-displayphoto-shrink_400_400/0/1610337915831?e=1776902400&v=beta&t=UaOCXjbgoQIT0fBATRg8rgJ62IFSj-RBI0aJYkuqRUY"
+     width="180"
+     style="border-radius: 50%; margin-bottom: 20px;" />
+
+## Hi, I’m Jacky
+
+</div>
+
+I work at the intersection of data, strategy, and execution. My background is in automotive marketplaces, where I partner with enterprise dealer groups to drive performance through pricing strategy, inventory optimization, and digital merchandising.
+
+In my current role, I manage national-level accounts and focus on translating data into action — whether that’s improving lead efficiency, increasing visibility, or identifying opportunities within competitive markets.
+
+---
+
+## What I Do
+
+- Analyze inventory and pricing dynamics across markets  
+- Translate performance data into clear, actionable insights  
+- Partner with dealer groups and leadership teams on growth strategy  
+- Identify opportunities to improve lead generation and conversion  
+
+---
+
+## How I Think
+
+I approach problems with a simple framework:
+
+- Start with the data  
+- Find the story  
+- Focus on action  
+
+The goal is always to make insights practical and usable.
+
+---
+
+## Outside of Work
+
+I’m currently finishing a Master’s in Applied Business Analytics at Boston University, focused on data modeling, large-scale analysis, and visualization.
+
+Outside of that, I enjoy optimizing systems — whether that’s travel rewards, workflows, or anything that can be made more efficient.
