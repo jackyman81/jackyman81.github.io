@@ -4,7 +4,28 @@
     "href": "about.html",
     "title": "About",
     "section": "",
-    "text": "About this site\n\nnums = [10, 20, 30]\nsum(nums)\n\n60"
+    "text": "I work at the intersection of data, strategy, and execution. My background is in automotive marketplaces, where I partner with enterprise dealer groups to drive performance through pricing strategy, inventory optimization, and digital merchandising.\nIn my current role, I manage national-level accounts and focus on translating data into action — whether that’s improving lead efficiency, increasing visibility, or identifying opportunities within competitive markets."
+  },
+  {
+    "objectID": "about.html#what-i-do",
+    "href": "about.html#what-i-do",
+    "title": "About",
+    "section": "What I Do",
+    "text": "What I Do\n\nAnalyze inventory and pricing dynamics across markets\n\nTranslate performance data into clear, actionable insights\n\nPartner with dealer groups and leadership teams on growth strategy\n\nIdentify opportunities to improve lead generation and conversion"
+  },
+  {
+    "objectID": "about.html#how-i-think",
+    "href": "about.html#how-i-think",
+    "title": "About",
+    "section": "How I Think",
+    "text": "How I Think\nI approach problems with a simple framework:\n\nStart with the data\n\nFind the story\n\nFocus on action\n\nThe goal is always to make insights practical and usable."
+  },
+  {
+    "objectID": "about.html#outside-of-work",
+    "href": "about.html#outside-of-work",
+    "title": "About",
+    "section": "Outside of Work",
+    "text": "Outside of Work\nI’m currently finishing a Master’s in Applied Business Analytics at Boston University, focused on data modeling, large-scale analysis, and visualization.\nOutside of that, I enjoy optimizing systems — whether that’s travel rewards, workflows, or anything that can be made more efficient."
   },
   {
     "objectID": "index.html",
