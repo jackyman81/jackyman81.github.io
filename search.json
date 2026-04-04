@@ -12,5 +12,12 @@
     "title": "About",
     "section": "",
     "text": "About this site\n\nnums = [10, 20, 30]\nsum(nums)\n\n60"
+  },
+  {
+    "objectID": "Projects.html",
+    "href": "Projects.html",
+    "title": "JACKY MAN",
+    "section": "",
+    "text": "Demo"
   }
 ]
