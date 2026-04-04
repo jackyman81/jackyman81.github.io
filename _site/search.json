@@ -4,13 +4,13 @@
     "href": "about.html",
     "title": "About",
     "section": "",
-    "text": "About this site\n\nnums = [10, 20, 30]\nsum(nums)\n\n60"
+    "text": "About this site\n\nnums = [10, 20, 30]\nsum(nums)\n\n60\n\n\n\n\n\nDemo"
   },
   {
     "objectID": "index.html",
     "href": "index.html",
     "title": "Jacky Man",
     "section": "",
-    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites."
+    "text": "Portfolio of Jacky Man"
   }
 ]
