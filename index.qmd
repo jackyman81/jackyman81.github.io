@@ -1,7 +1,56 @@
 ---
-title: "Jacky Man"
+title: ""
+page-layout: full
 ---
 
-Portfolio of Jacky Man 
+<div style="text-align: center; padding: 3rem 0;">
 
-![](./images/RC.webp){width="400px" height="400px"}
+# Jacky Man
+
+## Data. Strategy. Execution.
+
+<img src="https://media.licdn.com/dms/image/v2/C4D03AQHg6NYHz-YDPA/profile-displayphoto-shrink_400_400/profile-displayphoto-shrink_400_400/0/1610337915831?e=1776902400&v=beta&t=UaOCXjbgoQIT0fBATRg8rgJ62IFSj-RBI0aJYkuqRUY"
+     width="160"
+     style="border-radius: 50%; margin: 20px 0;" />
+
+</div>
+
+---
+
+## What I Focus On
+
+::: {.columns}
+
+::: {.column}
+### Analytics  
+Using data to understand performance, uncover trends, and identify opportunities.
+:::
+
+::: {.column}
+### Strategy  
+Turning insights into practical recommendations that support growth and better decision making.
+:::
+
+::: {.column}
+### Execution  
+Focusing on clear actions that move the needle, not just interesting analysis.
+:::
+
+:::
+
+---
+
+## Beyond Work
+
+Outside of my professional work, I’m also a points and miles hobbyist and a hands on home DIYer.
+
+I enjoy finding smart ways to maximize travel rewards, optimize loyalty programs, and turn everyday spending into better experiences. I take a similar approach at home, where I like figuring out how things work, improving spaces, and taking on projects that blend problem solving with creativity.
+
+---
+
+## Explore
+
+- [About](about.qmd)
+- [Projects](Projects.qmd)
+- [CV](CV.qmd)
+- [Contact](Contact.qmd)
