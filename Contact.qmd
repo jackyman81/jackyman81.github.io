@@ -1,0 +1,16 @@
+---
+title: "Contact"
+page-layout: full
+---
+
+<div style="text-align: center; padding: 4rem 0;">
+
+## Let’s Connect
+
+<p style="margin-top: 1.5rem;">
+  <a href="https://www.linkedin.com/in/jackyman/" target="_blank">
+    Connect on LinkedIn
+  </a>
+</p>
+
+</div>
