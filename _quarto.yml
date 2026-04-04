@@ -11,7 +11,10 @@ website:
         text: About
       - href: Projects.qmd
         text: Projects
-
+      - href: CV.qmd
+        text: CV
+      - href: Contact.qmd
+        text: Contact
 format:
   html:
     theme:
