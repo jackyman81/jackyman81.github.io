@@ -1,5 +1,19 @@
 [
   {
+    "objectID": "Contact.html",
+    "href": "Contact.html",
+    "title": "Contact",
+    "section": "",
+    "text": "Connect on LinkedIn"
+  },
+  {
+    "objectID": "Contact.html#lets-connect",
+    "href": "Contact.html#lets-connect",
+    "title": "Contact",
+    "section": "",
+    "text": "Connect on LinkedIn"
+  },
+  {
     "objectID": "about.html",
     "href": "about.html",
     "title": "About",
@@ -54,12 +68,5 @@
     "title": "Jacky Man",
     "section": "More Than Work",
     "text": "More Than Work\nI’m also a points and miles hobbyist and a hands on home DIYer.\nI enjoy optimizing travel rewards, finding smart ways to maximize value, and taking on projects at home that combine creativity with problem solving."
-  },
-  {
-    "objectID": "index.html#explore-the-site",
-    "href": "index.html#explore-the-site",
-    "title": "Jacky Man",
-    "section": "Explore the Site",
-    "text": "Explore the Site\n\n\n\nAbout\nLearn more about my background and approach.\nGo to About\n\n\n\nProjects\nA look at selected work across analytics and strategy.\nGo to Projects\n\n\n\nCV\nView my experience and background.\nGo to CV\n\n\n\nContact\nReach out to connect or collaborate.\nGo to Contact"
   }
 ]
