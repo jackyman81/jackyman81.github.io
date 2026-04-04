@@ -3,54 +3,85 @@ title: ""
 page-layout: full
 ---
 
-<div style="text-align: center; padding: 3rem 0;">
+<div style="text-align: center; padding: 4rem 0 2rem 0;">
 
 # Jacky Man
 
-## Data. Strategy. Execution.
+## Data, strategy, and practical problem solving
 
-<img src="https://media.licdn.com/dms/image/v2/C4D03AQHg6NYHz-YDPA/profile-displayphoto-shrink_400_400/profile-displayphoto-shrink_400_400/0/1610337915831?e=1776902400&v=beta&t=UaOCXjbgoQIT0fBATRg8rgJ62IFSj-RBI0aJYkuqRUY"
-     width="160"
-     style="border-radius: 50%; margin: 20px 0;" />
+I work across analytics, business strategy, and execution, with a focus on turning data into clear decisions and measurable outcomes.
+
+<p style="margin-top: 1.5rem;">
+  <a href="Projects.qmd" style="margin-right: 14px;">View Projects</a>
+  <a href="about.qmd" style="margin-right: 14px;">About Me</a>
+  <a href="Contact.qmd">Get in Touch</a>
+</p>
 
 </div>
 
 ---
 
-## What I Focus On
+## What I Do
 
 ::: {.columns}
 
-::: {.column}
+::: {.column width="33%"}
 ### Analytics  
-Using data to understand performance, uncover trends, and identify opportunities.
+Using data to uncover trends, explain performance, and identify opportunity.
 :::
 
-::: {.column}
+::: {.column width="33%"}
 ### Strategy  
-Turning insights into practical recommendations that support growth and better decision making.
+Connecting insights to practical recommendations that support growth.
 :::
 
-::: {.column}
+::: {.column width="33%"}
 ### Execution  
-Focusing on clear actions that move the needle, not just interesting analysis.
+Focusing on actions that are clear, useful, and results driven.
 :::
 
 :::
 
 ---
 
-## Beyond Work
+## More Than Work
 
-Outside of my professional work, I’m also a points and miles hobbyist and a hands on home DIYer.
+I’m also a points and miles hobbyist and a hands on home DIYer.
 
-I enjoy finding smart ways to maximize travel rewards, optimize loyalty programs, and turn everyday spending into better experiences. I take a similar approach at home, where I like figuring out how things work, improving spaces, and taking on projects that blend problem solving with creativity.
+I enjoy optimizing travel rewards, finding smart ways to maximize value, and taking on projects at home that combine creativity with problem solving.
 
 ---
 
-## Explore
+## Explore the Site
 
-- [About](about.qmd)
-- [Projects](Projects.qmd)
-- [CV](CV.qmd)
-- [Contact](Contact.qmd)
+::: {.columns}
+
+::: {.column width="25%"}
+### About  
+Learn more about my background and approach.  
+
+[Go to About](about.qmd)
+:::
+
+::: {.column width="25%"}
+### Projects  
+A look at selected work across analytics and strategy.  
+
+[Go to Projects](Projects.qmd)
+:::
+
+::: {.column width="25%"}
+### CV  
+View my experience and background.  
+
+[Go to CV](CV.qmd)
+:::
+
+::: {.column width="25%"}
+### Contact  
+Reach out to connect or collaborate.  
+
+[Go to Contact](Contact.qmd)
+:::
+
+:::
