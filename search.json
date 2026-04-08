@@ -7,34 +7,6 @@
     "text": "Connect on LinkedIn"
   },
   {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Jacky Man",
-    "section": "",
-    "text": "I work across analytics, business strategy, and execution, with a focus on turning data into clear decisions and measurable outcomes.\n\nView Projects About Me Get in Touch"
-  },
-  {
-    "objectID": "index.html#data-strategy-and-practical-problem-solving",
-    "href": "index.html#data-strategy-and-practical-problem-solving",
-    "title": "Jacky Man",
-    "section": "",
-    "text": "I work across analytics, business strategy, and execution, with a focus on turning data into clear decisions and measurable outcomes.\n\nView Projects About Me Get in Touch"
-  },
-  {
-    "objectID": "index.html#what-i-do",
-    "href": "index.html#what-i-do",
-    "title": "Jacky Man",
-    "section": "What I Do",
-    "text": "What I Do\n\n\n\nAnalytics\nUsing data to uncover trends, explain performance, and identify opportunity.\n\n\n\nStrategy\nConnecting insights to practical recommendations that support growth.\n\n\n\nExecution\nFocusing on actions that are clear, useful, and results driven."
-  },
-  {
-    "objectID": "index.html#more-than-work",
-    "href": "index.html#more-than-work",
-    "title": "Jacky Man",
-    "section": "More Than Work",
-    "text": "More Than Work\nI’m also a points and miles hobbyist and a hands on home DIYer.\nI enjoy optimizing travel rewards, finding smart ways to maximize value, and taking on projects at home that combine creativity with problem solving."
-  },
-  {
     "objectID": "about.html",
     "href": "about.html",
     "title": "About",
@@ -61,5 +33,33 @@
     "title": "About",
     "section": "Outside of Work",
     "text": "Outside of Work\nI’m currently finishing a Master’s in Applied Business Analytics at Boston University, focused on data modeling, large-scale analysis, and visualization.\nOutside of that, I enjoy optimizing systems — whether that’s travel rewards, workflows, or anything that can be made more efficient."
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Jacky Man",
+    "section": "",
+    "text": "I work across analytics, business strategy, and execution, with a focus on turning data into clear decisions and measurable outcomes.\n\nView Projects About Me Get in Touch"
+  },
+  {
+    "objectID": "index.html#data-strategy-and-practical-problem-solving",
+    "href": "index.html#data-strategy-and-practical-problem-solving",
+    "title": "Jacky Man",
+    "section": "",
+    "text": "I work across analytics, business strategy, and execution, with a focus on turning data into clear decisions and measurable outcomes.\n\nView Projects About Me Get in Touch"
+  },
+  {
+    "objectID": "index.html#what-i-do",
+    "href": "index.html#what-i-do",
+    "title": "Jacky Man",
+    "section": "What I Do",
+    "text": "What I Do\n\n\n\nAnalytics\nUsing data to uncover trends, explain performance, and identify opportunity.\n\n\n\nStrategy\nConnecting insights to practical recommendations that support growth.\n\n\n\nExecution\nFocusing on actions that are clear, useful, and results driven."
+  },
+  {
+    "objectID": "index.html#more-than-work",
+    "href": "index.html#more-than-work",
+    "title": "Jacky Man",
+    "section": "More Than Work",
+    "text": "More Than Work\nI’m also a points and miles hobbyist and a hands on home DIYer.\nI enjoy optimizing travel rewards, finding smart ways to maximize value, and taking on projects at home that combine creativity with problem solving."
   }
 ]
