@@ -50,4 +50,18 @@ Outside of that, I’m a hands-on DIYer who likes building, fixing, and upgradin
 
 And when I’m not doing either of those, I’m probably locked into a Boston Celtics game.
 
-![](https://media2.giphy.com/media/65D3e4Df8EDLL9N0bi/giphy-downsized.gif)
+<div style="display:flex; justify-content:center;">
+  <img 
+    src="https://media2.giphy.com/media/65D3e4Df8EDLL9N0bi/giphy-downsized.gif"
+    style="
+      width: 250px;
+      -webkit-mask-image: radial-gradient(circle at 30% 30%, black 40%, transparent 41%),
+                          radial-gradient(circle at 70% 30%, black 40%, transparent 41%),
+                          radial-gradient(circle at 30% 70%, black 40%, transparent 41%),
+                          radial-gradient(circle at 70% 70%, black 40%, transparent 41%);
+      -webkit-mask-composite: destination-over;
+      mask-composite: add;
+      background: white;
+    "
+  />
+</div>
